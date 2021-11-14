@@ -2,7 +2,7 @@
 A script for Adobe Audition to add spacing between imported clips.
 
 ## Instructions
-* Download [ClipSpacing.jsx](ClipSpacing.jsx) to a known location
+* Download [ClipSpacing.jsx](/../../raw/main/ClipSpacing.jsx) to a known location
 * In Adobe Audition, import files to your Multitrack Session. The clips should now be selected
 * In the menu, open **File > Browse and Run Script…** and select the downloaded script file
 
